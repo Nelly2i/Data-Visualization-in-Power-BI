@@ -27,8 +27,8 @@ I am here to assist you and continuously improve the dashboard.
 # Datasets
 I used three datasets for this project
 
-You can access the customer dataset [here](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Customer.csv)
+You can access the customer dataset [here](https://github.com/Nelly2i/Data-Visualization-in-Power-BI/blob/main/Customer.csv)
 
-You can access the product dataset [here](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Product.csv)
+You can access the product dataset [here](https://github.com/Nelly2i/Data-Visualization-in-Power-BI/blob/main/Product.csv)
 
-You can access the sales dataset [here](https://github.com/Nelly2i/Data-Exploration-in-PostgreSQL/blob/main/Sales.csv)
+You can access the sales dataset [here](https://github.com/Nelly2i/Data-Visualization-in-Power-BI/blob/main/Sales.csv)
