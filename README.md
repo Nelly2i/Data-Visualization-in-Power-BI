@@ -20,7 +20,9 @@ This sales dashboard in Power BI provides a comprehensive view of a Company's sa
 - Data Source: Ensure that you have the necessary data sources (e.g., Excel, CSV, SQL database) to connect to and import the sales data into Power BI.
 
 ## Support and Feedback
-If you have any questions, issues, or feedback regarding the sales dashboard, please don't hesitate to reach out to me via my [email](nwonyimaleslie@gmail.com). I am here to assist you and continuously improve the dashboard.
+If you have any questions, issues, or feedback regarding the sales dashboard, please don't hesitate to reach out to me via my email  -  nwonyimaleslie@gmail.com.
+
+I am here to assist you and continuously improve the dashboard.
 
 # Datasets
 I used three datasets for this project
